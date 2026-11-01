@@ -1,0 +1,67 @@
+HERRAMIENTAS DEL PINTOR — REVISIÓN Y AMPLIACIÓN FORMATIVA
+
+32 fichas: se revisan las 22 existentes y se añaden 10, con ilustraciones nuevas.
+32 ejercicios autocorregibles, uno por ficha: 10 de reconocimiento visual y
+22 de funciones, precauciones, elección de útiles y un cálculo de superficie.
+
+NUEVAS FICHAS
+23. Rascador de cuchilla
+24. Llana de acero inoxidable
+25. Lijadora excéntrica
+26. Aspirador para polvo de obra
+27. Rodillo de espuma
+28. Brocha angular
+29. Abrebotes de pintura
+30. Peine limpiabrochas
+31. Carta de colores
+32. Flexómetro
+
+CONTENIDOS REVISADOS
+Se aclara que la cinta no es aislamiento eléctrico y que su retirada sigue
+las instrucciones del producto. Se evita presentar cualquier espátula como
+abrebotes. Se distinguen paletina plana, brocha angular y modelos de radiador.
+Se exige identificar y valorar revestimientos antes de rascar, lijar o calentar.
+La selección de abrasivos, equipos de aspiración, protección respiratoria,
+gafas y guantes responde a la tarea y a sus instrucciones, sin recetas universales.
+Se revisan las limitaciones de los medidores de humedad, la limpieza y los
+residuos, los medios de acceso en altura y el reconocimiento de equipos a presión.
+Se mantienen los apartados y la estética; todas las fichas incluyen referencias
+desplegables para el docente y una comprobación de aprendizaje.
+
+IMÁGENES Y MARCA
+Las 22 ilustraciones originales y el logo de cabecera se conservan sin cambiar
+sus archivos. En la app se encuadran las originales excluyendo la franja inferior
+de rotulación anterior, para mostrar una única marca pequeña y uniforme.
+La marca exacta se superpone abajo a la izquierda en tarjetas, fichas y ejercicios;
+no se ha redibujado. Las 10 ilustraciones nuevas son de reconocimiento, no
+identifican modelos certificados ni muestran todas las medidas de una tarea.
+Consulta ILUSTRACIONES.txt para la relación de recursos y sus descripciones.
+
+USO Y EJERCICIOS
+La portada permite buscar sin tildes y con varias palabras, filtrar por
+categoría y abrir la lista de ejercicios. Cada ficha enlaza a su ejercicio y
+cada ejercicio a la ficha. Selecciona una respuesta y pulsa «Comprobar».
+Puedes pedir una pista, leer la explicación, cambiar de respuesta y repetir.
+Los ejercicios se resuelven en pantalla; no piden hacer maniobras ni pruebas
+con equipos peligrosos. Superarlos no acredita formación ni autoriza trabajos.
+
+PROGRESO
+«Marcar como repasada» y los ejercicios superados se guardan en este navegador
+y dispositivo. No se envían respuestas. Borrar los datos del navegador elimina
+el progreso. En navegación privada el guardado puede ser temporal o no estar
+disponible. Las respuestas e intentos en curso duran mientras la página está
+abierta. Repetir no borra un logro. Para borrar los logros de ejercicios, pulsa
+«Reiniciar el progreso de ejercicios» y confirma; las fichas repasadas se conservan.
+
+PUBLICAR EN GITHUB PAGES, CLOUDFLARE PAGES O NETLIFY
+Descomprime el ZIP y sube su CONTENIDO COMPLETO: index.html, data.js, app.js,
+ejercicios.js, carpeta img y archivos de instrucciones. Se incluye .nojekyll.
+index.html debe quedar en la raíz del directorio publicado.
+No requiere instalación, compilación, claves, cuentas del alumnado ni base de datos.
+No incluye modo sin conexión instalable. Las fuentes externas necesitan conexión.
+
+FUENTES
+Las referencias de INSST, Umivale Activa, tesa, Bosch, Graco y Bruguer están
+enlazadas en las fichas como apoyo o ejemplo. Consulta siempre las instrucciones
+vigentes del útil y el producto concretos y la evaluación del taller. Las marcas
+no implican una recomendación de compra. Revisión: octubre de 2026.

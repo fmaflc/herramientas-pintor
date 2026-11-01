@@ -1,0 +1,37 @@
+ILUSTRACIONES DE LA AMPLIACIÓN
+Generadas con la herramienta integrada de imágenes. Recursos incluidos en img/.
+Ilustraciones orientativas, sin marcas de fabricante ni textos de certificación.
+La marca original se añade mediante la app; no se pide a la IA que la reproduzca.
+
+Descripciones utilizadas para generar los recursos:
+
+img/n-rascador.png
+Create a single educational catalogue illustration of a PAINTER'S CARBIDE SCRAPER: short red and black ergonomic handle with a clearly visible broad replaceable carbide scraping blade across its head. One tool only, lying diagonally on a pale wooden workbench against a warm cream background. Semi-realistic hand drawn illustration with crisp dark contours, gentle soft shading, warm muted colors, same feel as Spanish vocational construction learning cards. Landscape 4:3 composition, whole tool visible, generous margins including clear empty bottom-left area reserved for a small logo to be added later. No words, no letters, no logos, no watermark, no people. This is a tool identification image, not a scene showing use.
+
+img/n-llana.png
+Educational vocational catalogue illustration of a PAINTER'S STAINLESS STEEL FINISHING TROWEL: broad clean rectangular flat stainless blade with gently rounded corners and an arched red handle above the blade, tool isolated on bench. Whole tool visible lying on a pale wooden workbench, warm cream background. Semi-realistic drawing with crisp dark contours, gentle soft shadows, warm muted palette, matching Spanish construction teaching cards. Landscape 4:3, generous margins and empty bottom-left area reserved for logo added later. No words, no logos, no watermark, no people, no active operation. Accurate recognisable basic tool shape.
+
+img/n-lijadora.png
+Educational vocational catalogue illustration of an UNPLUGGED RANDOM ORBITAL SANDER for painting preparation: compact red and black body, circular sanding pad underneath, dust extraction outlet on side visible, loose unplugged power plug beside it, no dust or active operation. Whole tool visible lying on a pale wooden workbench, warm cream background. Semi-realistic drawing with crisp dark contours, gentle soft shadows, warm muted palette, matching Spanish construction teaching cards. Landscape 4:3, generous margins and empty bottom-left area reserved for logo added later. No words, no logos, no watermark, no people, no active operation. Accurate recognisable basic tool shape.
+
+img/n-aspirador.png
+Educational vocational catalogue illustration of a PROFESSIONAL DUST EXTRACTOR: compact red and grey wheeled canister, black flexible ribbed suction hose and floor nozzle resting beside it, unplugged power cord, closed dust container, no labels or performance certification markings. Whole tool visible lying on a pale wooden workbench, warm cream background. Semi-realistic drawing with crisp dark contours, gentle soft shadows, warm muted palette, matching Spanish construction teaching cards. Landscape 4:3, generous margins and empty bottom-left area reserved for logo added later. No words, no logos, no watermark, no people, no active operation. Accurate recognisable basic tool shape.
+
+img/n-rodillo-espuma.png
+Educational vocational catalogue illustration of a SMALL FOAM PAINT ROLLER: smooth fine-cell yellow foam cylinder on a bent metal frame with red handle, plus one detached identical foam sleeve beside it, no fluffy fibers. Whole tool visible lying on a pale wooden workbench, warm cream background. Semi-realistic drawing with crisp dark contours, gentle soft shadows, warm muted palette, matching Spanish construction teaching cards. Landscape 4:3, generous margins and empty bottom-left area reserved for logo added later. No words, no logos, no watermark, no people, no active operation. Accurate recognisable basic tool shape.
+
+img/n-brocha-angular.png
+Educational vocational catalogue illustration of an ANGLED SASH PAINT BRUSH: flat bristle bundle whose tip is clearly cut on an oblique angle, silver ferrule, varnished wood handle, single brush whole visible. Whole tool visible lying on a pale wooden workbench, warm cream background. Semi-realistic drawing with crisp dark contours, gentle soft shadows, warm muted palette, matching Spanish construction teaching cards. Landscape 4:3, generous margins and empty bottom-left area reserved for logo added later. No words, no logos, no watermark, no people, no active operation. Accurate recognisable basic tool shape.
+
+img/n-abrebotes.png
+Educational vocational catalogue illustration of a DEDICATED PAINT CAN OPENER: compact metal lever with a flattened hooked opening tip and ring handle, next to a small closed unlabelled paint can, no screwdriver. Whole tool visible lying on a pale wooden workbench, warm cream background. Semi-realistic drawing with crisp dark contours, gentle soft shadows, warm muted palette, matching Spanish construction teaching cards. Landscape 4:3, generous margins and empty bottom-left area reserved for logo added later. No words, no logos, no watermark, no people, no active operation. Accurate recognisable basic tool shape.
+
+img/n-peine.png
+Educational vocational catalogue illustration of a PAINT BRUSH CLEANING COMB: flat stainless head with one row of long straight metal tines and a red handle, a clean flat paint brush lying alongside it as context, no water or cleaning action. Whole tool visible lying on a pale wooden workbench, warm cream background. Semi-realistic drawing with crisp dark contours, gentle soft shadows, warm muted palette, matching Spanish construction teaching cards. Landscape 4:3, generous margins and empty bottom-left area reserved for logo added later. No words, no logos, no watermark, no people, no active operation. Accurate recognisable basic tool shape.
+
+img/n-carta-color.png
+Educational vocational catalogue illustration of a PAINTER'S FAN DECK COLOR CHART: several narrow paper cards hinged by one visible pivot, fanned open, rows of muted paint color rectangles on each card, blank labels with no letters or numbers, not a wall of color. Whole tool visible lying on a pale wooden workbench, warm cream background. Semi-realistic drawing with crisp dark contours, gentle soft shadows, warm muted palette, matching Spanish construction teaching cards. Landscape 4:3, generous margins and empty bottom-left area reserved for logo added later. No words, no logos, no watermark, no people, no active operation. Accurate recognisable basic tool shape.
+
+img/n-flexometro.png
+Educational vocational catalogue illustration of a RETRACTABLE TAPE MEASURE: compact red and black case and short yellow measuring tape extended, clear black tick marks but no readable numbers or text, tape ending in metal hook, single tool. Whole tool visible lying on a pale wooden workbench, warm cream background. Semi-realistic drawing with crisp dark contours, gentle soft shadows, warm muted palette, matching Spanish construction teaching cards. Landscape 4:3, generous margins and empty bottom-left area reserved for logo added later. No words, no logos, no watermark, no people, no active operation. Accurate recognisable basic tool shape.
+
